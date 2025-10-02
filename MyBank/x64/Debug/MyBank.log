@@ -1,0 +1,78 @@
+﻿  main.cpp
+C:\Users\DRT\source\repos\MyBank\MyBank\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsUser.h(200,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'main.cpp')
+      C:\Users\DRT\source\repos\MyBank\MyBank\clsUser.h(36,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsBankClient.h(189,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'main.cpp')
+      C:\Users\DRT\source\repos\MyBank\MyBank\clsBankClient.h(126,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsBankClient.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsBankClient.h(136,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsBankClient.h(137,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsBankClient.h(138,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsBankClient.h(213,40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsBankClient.h(341,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsUpdateUserScreen.h(118,17): warning C4129: 'L': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsCurrency.h(28,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\DRT\source\repos\MyBank\MyBank\clsBankClient.h(297,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\DRT\source\repos\MyBank\MyBank\clsBankClient.h(359,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\DRT\source\repos\MyBank\MyBank\clsUser.h(358,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  MyBank.vcxproj -> C:\Users\DRT\source\repos\MyBank\x64\Debug\MyBank.exe
